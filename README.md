@@ -1,5 +1,3 @@
-# RR Tech Creative Blend Solutions — Customer AI Assistant
-
 A small customer-facing website chat assistant using FastAPI REST endpoints, a static chat widget, and SQLite lead storage. It runs in demo mode without an API key; adding an OpenAI API key enables AI-generated answers.
 
 ## 1. Requirements
